@@ -33,4 +33,4 @@
 > **샌디에고**
 >> _지상 최고 낙원_
 
-## My Git [💡](https://github.com/)
+## My Git [💡](https://github.com/rlawlsrb110)
